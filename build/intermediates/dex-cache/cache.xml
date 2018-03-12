@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_f36d5b898afc3fcc8dc583759c0a7c114834c667.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_e392e287f4f2c9aa40b2bd03e08cf40c109d555a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_16a7a5a5116f27aba2004faa90ec7bcbce671f1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_c2092a24cab3701789be25238ff153bb0a97ff75.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_b74e2608ed9e60c4b9e8fedf1d2c4e4ef0c8562b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_633c88a1d5a4abe21e5a9c71570695602976162c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_7d0dc7f07dc9f9d938fa7240a4222707f92f6a0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_9a49e9b2fae86a993b959f7a2ffef04a4798b93b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_fb62945c7fd822fb15c5136edad82d43724d1e09.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_b3c9a29cbc5ee8ba7f25cb61c959fd67f1b45d71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_92ad82ceebc17d3130950fe18bfc886516289086.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_f11bda1a4cce485580499e049fdd44a9893a7dc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_38e34206baaaa6611855e41f9e7f1feada87020a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_808d291c67d3871b28349754b69a00f96299ef0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_4c8c4569919928e475519b8fd7f0dfbdb0f0a222.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_3ecd681efa3c53c458b14e309b278e4c0e87a639.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Marty\AndroidStudioProjects\Customizer2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a9c0254735e2639faf0271c8fd3365eb6d5def46.jar" />
+    </item>
+
+</items>
